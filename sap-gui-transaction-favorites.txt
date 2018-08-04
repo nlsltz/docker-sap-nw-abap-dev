@@ -1,0 +1,68 @@
+TR0000100002ZABAPGIT                                        abapGIT                                                                                                                             
+  0000100003                                                Workflow                                                                                                                            
+  0000100004                                                BOPF                                                                                                                                
+  0000100005                                                Authorization                                                                                                                       
+  0000100006                                                Transport                                                                                                                           
+  0000100007                                                Basis                                                                                                                               
+  0000100008                                                Dev                                                                                                                                 
+  0000100009                                                Fiori                                                                                                                               
+  0000100010                                                OData                                                                                                                               
+  0000100011                                                Gateway                                                                                                                             
+  0000100012                                                Business Partner                                                                                                                    
+  0000100013                                                Clients                                                                                                                             
+TR0000100014SE63                                            Übersetzungseditor                                                                                                                  
+TR0000100015SM04                                            Anmeldungen an einer AS-Instanz                                                                                                     
+TR0000400059BOBF                                            BOPF: Geschäftsobjektkonfiguration                                                                                                  
+TR0000400060BOBT                                            Business Object Builder - Test                                                                                                      
+TR0000400061BOBX                                            BOPF: Geschäftsobjektkonfiguration                                                                                                  
+TR0000400062SE24                                            ABAP Class Builder                                                                                                                  
+TR0000400063BOB                                             Business Object Builder                                                                                                             
+TR0000500053ST01                                            System Trace                                                                                                                        
+TR0000500054SU53                                            Evaluate Authorization Check                                                                                                        
+TR0000500055PFCG                                            Pflege von Rollen                                                                                                                   
+TR0000500056SACM                                            Zugriffskontrollverwaltung (CDS/DDL)                                                                                                
+TR0000500057SU20                                            Pflege der Berechtigungsfelder                                                                                                      
+TR0000500058SU21                                            Pflegen der Berechtigungsobjekte                                                                                                    
+TR0000600050SE06                                            Set Up Transport Organizer                                                                                                          
+TR0000600051SE03                                            Transport Organizer Tools                                                                                                           
+TR0000600052SE10                                            Transport Organizer                                                                                                                 
+TR0000700044STC01                                           Aufgaben-Manager f.Tech.Konfigurat.                                                                                                 
+TR0000700045SPRO                                            Customizing - Edit Project                                                                                                          
+TR0000700046SIMGH                                           IMG-Strukturpflege                                                                                                                  
+TR0000700047SAINT                                           Add-On Installation Tool                                                                                                            
+TR0000700048SPAM                                            Support Package Manager                                                                                                             
+TR0000700049SNOTE                                           Note Assistant                                                                                                                      
+TR0000800031SWO1                                            Business Object Builder                                                                             6CA7611A89D7D211AE6400A0C9EAAA94
+TR0000800032SE24                                            ABAP Class Builder                                                                                                                  
+TR0000800033ST05                                            Performance Trace                                                                                                                   
+TR0000800034SCDO                                            Änderungsbelegobjekte                                                                                                               
+TR0000800035SE21                                            Package Builder                                                                                                                     
+TR0000800036SU24                                            Berechtigungsvorschlagspflege                                                                                                       
+TR0000800037DBACOCKPIT                                      DBA Cockpit starten                                                                                                                 
+TR0000800038SM34                                            Aufruf Viewcluster-Pflege                                                                                                           
+TR0000800039SNRO                                            Nummernkreisobjekte                                                                                                                 
+TR0000800040SE37                                            ABAP Function Modules                                                                                                               
+TR0000800041SE38                                            ABAP Editor                                                                                                                         
+TR0000800042SE11                                            ABAP Dictionary Maintenance                                                                                                         
+TR0000800043SE80                                            Object Navigator                                                                                                                    
+OT0000900028URL                                             ### Launchpad ###                                                                                                                   https://vhcala4hci.wdf.sap.corp:50001/sap/bc/ui5_ui5/ui2/ushell/shells/abap/FioriLaunchpad.html
+OT0000900029URL                                             ### Launchpad Designer ###                                                                                                          https://vhcala4hci.wdf.sap.corp:50001/sap/bc/ui5_ui5/sap/arsrvc_upb_admn/main.html
+TR0000900030LPD_CUST                                        Launchpad-Customizing                                                                                                               
+TR0001000025SEGW                                            SAP Gateway Service Builder                                                                                                         
+TR0001000026/UI2/SEMOBJ                                     Semantisches Objekt defin. - Kunde                                                                                                  
+TR0001000027SICF                                            Pflege des HTTP-Service-Baums                                                                                                       
+TR0001100016/IWBEP/TRACES                                   SAP GW Backend Traces                                                                                                               
+TR0001100017/IWFND/TRACES                                   SAP Gateway Traces                                                                                                                  
+TR0001100018/IWFND/VIRUS_SCAN                               Konfigrtn des SAP-Gateway-Virenscans                                                                                                
+TR0001100019/IWBEP/ERROR_LOG                                SAP-Gateway-Backend-Fehlerprotokoll                                                                                                 
+TR0001100020/IWFND/ERROR_LOG                                Fehlerprotokoll von SAP Gateway                                                                                                     
+TR0001100021/IWFND/MAINT_SERVICE                            Services aktivieren und verwalten                                                                                                   
+TR0001100022/IWFND/GW_CLIENT                                SAP Gateway Client                                                                                                                  
+TR0001100023/IWFND/MED_ACTIVATE                             Metadaten-Cache aktivieren/deakt.                                                                                                   
+TR0001100024/IWFND/CACHE_CLEANUP                            Bereinigung des Modellcaches                                                                                                        
+TR0001200064BP                                              Geschäftspartner bearbeiten                                                                                                         
+TR0001200065BUPA_DEL                                        Löschen ohne Archivieren                                                                                                            
+TR0001300066SCC3                                            Client Copy Log                                                                                                                     
+TR0001300067SCCL                                            Local Client Copy                                                                                                                   
+TR0001300068SCC4                                            Client Administration                                                                                                               
+TR0001300069SALE                                            Display ALE Customizing                                                                                                             
